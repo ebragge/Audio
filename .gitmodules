@@ -1,0 +1,3 @@
+[submodule "LibAudio"]
+	path = LibAudio
+	url = https://github.com/ebragge/LibAudio.git
